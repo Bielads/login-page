@@ -11,7 +11,7 @@ Projeto de uma página de login desenvolvido para praticar os fundamentos do des
 
 Praticar a criação de interfaces web, organização de elementos HTML e estilização com CSS.
 
-## ▶️ Como executar
+### ▶️ Como executar
 
 1. Baixe ou clone este repositório.
 2. Abra a pasta do projeto.
